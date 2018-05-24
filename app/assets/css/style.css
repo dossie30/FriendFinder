@@ -1,13 +1,7 @@
 body {
   
   background-color: dodgerblue;
-  
-  
-  
-  
-
-  
-  
+  background: linear-gradient(to bottom right, darkturquise, dodgerblue);
 }
 
 .jumbotron {
@@ -16,4 +10,9 @@ body {
   background-repeat: no-repeat;
   background-size: 100% 100%;
  
+}
+
+h4 {
+
+  color: cornsilk;
 }
