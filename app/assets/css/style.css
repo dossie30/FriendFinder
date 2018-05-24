@@ -1,8 +1,19 @@
 body {
   
-
   background-color: dodgerblue;
+  
+  
+  
+  
+
+  
+  
+}
+
+.jumbotron {
+  
+  background-image: url("../images/photo-1473186578172-c141e6798cf4.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
  
-  
-  
 }
