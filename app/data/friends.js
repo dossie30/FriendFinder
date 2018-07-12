@@ -1,10 +1,10 @@
 //DATA
 // Below data will hold all of the friends tables.
 
-var friendArray = [
+var friends = [
   {
     name: "Amanda Leach",
-    photo: "../images/photo-1477118476589-bff2c5c4cfbb.jpg",
+    photo: "https://unsplash.com/photos/C_1jjFJioWg",
     scores: [
       "5",
       "4",
@@ -20,7 +20,7 @@ var friendArray = [
   },
   {
     name: "Ethan Rowe",
-    photo: "../images/photo-1500048993953-d23a436266cf.jpg",
+    photo: "https://unsplash.com/photos/0YHIlxeCuhg",
     scores: [
       "1",
       "1",
@@ -36,7 +36,7 @@ var friendArray = [
   },
   {
     name: "Sarah Anison",
-    photo: "../images/photo-1477524076598-003de1c88dff.jpg",
+    photo: "https://unsplash.com/photos/wvU2iglx2ME",
     scores: [
       "4",
       "1",
@@ -52,7 +52,7 @@ var friendArray = [
   },
   {
     name: "Jay Thomas",
-    photo: "../images/photo-1494757126156-ca5d7c7bb775.jpg",
+    photo: "https://unsplash.com/photos/6rsnRElhycs",
     scores: [
       "3",
       "3",
@@ -68,7 +68,7 @@ var friendArray = [
   },
   {
     name: "Melissa Flowers",
-    photo: "../images/photo-1506726447732-9090b8586f05",
+    photo: "https://unsplash.com/photos/oad74xP3qqw",
     scores: [
       "2",
       "2",
@@ -84,7 +84,7 @@ var friendArray = [
   },
   {
     name: "Carl Lee",
-    photo: "../images/photo-1520248033529-d05cd1981e6f",
+    photo: "https://unsplash.com/photos/YYEJ06Ms1oY",
     scores: [
       "3",
       "5",
